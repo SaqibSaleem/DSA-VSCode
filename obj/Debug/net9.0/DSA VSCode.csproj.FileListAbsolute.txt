@@ -1,0 +1,14 @@
+D:\DSA VSCode\bin\Debug\net9.0\DSA VSCode.exe
+D:\DSA VSCode\bin\Debug\net9.0\DSA VSCode.deps.json
+D:\DSA VSCode\bin\Debug\net9.0\DSA VSCode.runtimeconfig.json
+D:\DSA VSCode\bin\Debug\net9.0\DSA VSCode.dll
+D:\DSA VSCode\bin\Debug\net9.0\DSA VSCode.pdb
+D:\DSA VSCode\obj\Debug\net9.0\DSA VSCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA VSCode\obj\Debug\net9.0\DSA VSCode.AssemblyInfoInputs.cache
+D:\DSA VSCode\obj\Debug\net9.0\DSA VSCode.AssemblyInfo.cs
+D:\DSA VSCode\obj\Debug\net9.0\DSA VSCode.csproj.CoreCompileInputs.cache
+D:\DSA VSCode\obj\Debug\net9.0\DSA VSCode.dll
+D:\DSA VSCode\obj\Debug\net9.0\refint\DSA VSCode.dll
+D:\DSA VSCode\obj\Debug\net9.0\DSA VSCode.pdb
+D:\DSA VSCode\obj\Debug\net9.0\DSA VSCode.genruntimeconfig.cache
+D:\DSA VSCode\obj\Debug\net9.0\ref\DSA VSCode.dll
