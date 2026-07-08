@@ -1,6 +1,15 @@
 ﻿using DSA_VSCode._01_Basics;
-using DSA_VSCode._07_Trees;
+#region 01_Basics- Loops and Patterns
 
-Functions.Run();
-Loops.Run();
-inorder_traversal.Run();
+//Loops.SquarePattern();
+//Console.WriteLine();
+//Loops.SquareRowPattern();
+//Loops.RightTriangleStarPattern();
+//Loops.InvertedRightTriangleStarPattern();
+//Loops.PyramidShapePattern();
+//Loops.DiamondStarPattern();
+//Loops.LeftTriStarPattern();
+//Loops.InvertedLeftTriStarPattern();
+//Loops.HollowSquarePattern();
+//Loops.HollowRightTriPattern();
+#endregion

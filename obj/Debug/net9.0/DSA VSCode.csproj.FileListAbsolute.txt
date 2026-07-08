@@ -12,3 +12,4 @@ D:\DSA VSCode\obj\Debug\net9.0\refint\DSA VSCode.dll
 D:\DSA VSCode\obj\Debug\net9.0\DSA VSCode.pdb
 D:\DSA VSCode\obj\Debug\net9.0\DSA VSCode.genruntimeconfig.cache
 D:\DSA VSCode\obj\Debug\net9.0\ref\DSA VSCode.dll
+D:\DSA VSCode\obj\Debug\net9.0\DSA VSCode.sourcelink.json
