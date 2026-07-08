@@ -11,5 +11,5 @@
 //Loops.LeftTriStarPattern();
 //Loops.InvertedLeftTriStarPattern();
 //Loops.HollowSquarePattern();
-//Loops.HollowRightTriPattern();
+Loops.HollowRightTriPattern();
 #endregion
