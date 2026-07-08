@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DSA VSCode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2bec1776ecd4f37f5620287b34128bd8aeb2ddf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90b6b234d63745bb9420f0dc215629bd9d650f82")]
 [assembly: System.Reflection.AssemblyProductAttribute("DSA VSCode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DSA VSCode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
