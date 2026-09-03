@@ -1,5 +1,6 @@
 ﻿using DSA_VSCode._01_Basics;
 using DSA_VSCode._02_Arrays;
+using DSA_VSCode._10_Hasshing;
 
 #region 01_Basics- Loops and Patterns
 
@@ -22,5 +23,14 @@ using DSA_VSCode._02_Arrays;
 //Arrays.FindMin();
 //Arrays.AvgArray();
 //Arrays.SearchNum(1);
-Arrays.CountOccurrence();
+//Arrays.CountOccurrence();
+#endregion
+#region Hashing
+/* HashSetClass H = new HashSetClass();
+H.AddHashSet();
+H.CheckValue(10);
+H.CheckValue(100);
+H.RemoveValue(30); */
+// Find Duplicate
+//HashSetClass.FindDuplicate();
 #endregion
