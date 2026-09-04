@@ -33,4 +33,14 @@ H.CheckValue(100);
 H.RemoveValue(30); */
 // Find Duplicate
 //HashSetClass.FindDuplicate();
+
+HashMapClass HMap = new HashMapClass();
+/* HMap.AddValue();
+//HMap.ShowKey();
+//HMap.ShowValue();
+HMap.ContainKey(104);
+HMap.RemovePair(103);
+HMap.ShowMap(); */
+// Check Frequency
+//HMap.CheckFrequency();
 #endregion
