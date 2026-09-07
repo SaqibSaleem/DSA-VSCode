@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\DSA VSCode\\DSA VSCode.csproj": {}
+    "D:\\DSA VSCode\\DSA VSCode.csproj": {}
   },
   "projects": {
-    "d:\\DSA VSCode\\DSA VSCode.csproj": {
+    "D:\\DSA VSCode\\DSA VSCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\DSA VSCode\\DSA VSCode.csproj",
+        "projectUniqueName": "D:\\DSA VSCode\\DSA VSCode.csproj",
         "projectName": "DSA VSCode",
-        "projectPath": "d:\\DSA VSCode\\DSA VSCode.csproj",
+        "projectPath": "D:\\DSA VSCode\\DSA VSCode.csproj",
         "packagesPath": "C:\\Users\\Saqib\\.nuget\\packages\\",
-        "outputPath": "d:\\DSA VSCode\\obj\\",
+        "outputPath": "D:\\DSA VSCode\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

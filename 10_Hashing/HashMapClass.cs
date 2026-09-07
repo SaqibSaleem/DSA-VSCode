@@ -79,7 +79,26 @@ namespace DSA_VSCode._10_Hasshing
                 Console.WriteLine(item.Key + " -> " + item.Value);
             }
         }
+        // Sum of two numbers with HashMap
+        public int[] SumNum()
+        {
+            Dictionary<int, int> map = new Dictionary<int, int>();
+            int[] numbers = { 2, 11, 15, 7 };
+            int Target = 17;
+            for (int i = 0; i < numbers.Length; i++)
+            {
+                int Comp = Target - numbers[i];
+                if (map.ContainsKey(Comp))
+                {
 
+                    int[] N = { map[Comp], i };
+                    return N;
+                }
+                map.Add(numbers[i], i);
+            }
+            return new int[] { -1, -1 };
+
+        }
 
     }
 }
