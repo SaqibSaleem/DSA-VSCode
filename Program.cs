@@ -76,15 +76,15 @@ HMap.ShowMap(); */
 //myqueue.DisplayQueue();
 #endregion
 #region Circular Queue
-MyCircularQueue myCircularQueue = new MyCircularQueue(3);
-myCircularQueue.CirEnque(11);
-myCircularQueue.CirEnque(13);
-myCircularQueue.CirEnque(15);
+// MyCircularQueue myCircularQueue = new MyCircularQueue(3);
+// myCircularQueue.CirEnque(11);
+// myCircularQueue.CirEnque(13);
+// myCircularQueue.CirEnque(15);
 
-Console.WriteLine(myCircularQueue.CirDeque());
-Console.WriteLine(myCircularQueue.CirDeque());
-myCircularQueue.CirEnque(17);
-myCircularQueue.CirEnque(19);
-myCircularQueue.DisplayCirQueue();
-Console.WriteLine(myCircularQueue.CirPeek());
+// Console.WriteLine(myCircularQueue.CirDeque());
+// Console.WriteLine(myCircularQueue.CirDeque());
+// myCircularQueue.CirEnque(17);
+// myCircularQueue.CirEnque(19);
+// myCircularQueue.DisplayCirQueue();
+// Console.WriteLine(myCircularQueue.CirPeek());
 #endregion
