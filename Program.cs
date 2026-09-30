@@ -47,15 +47,44 @@ HMap.ShowMap(); */
 //HMap.SumNum();
 #endregion
 #region Stack
-MyStack stack = new MyStack(4);
-stack.Push(5);
-stack.Push(10);
-stack.Push(15);
-stack.Push(20);
-Console.WriteLine(stack.Peek());
-Console.WriteLine(stack.Pop());
-Console.WriteLine(stack.Pop());
-Console.WriteLine(stack.Pop());
-Console.WriteLine(stack.Peek());
-stack.DisplayStack();
+// MyStack stack = new MyStack(4);
+// stack.Push(5);
+// stack.Push(10);
+// stack.Push(15);
+// stack.Push(20);
+// Console.WriteLine(stack.Peek());
+// Console.WriteLine(stack.Pop());
+// Console.WriteLine(stack.Pop());
+// Console.WriteLine(stack.Pop());
+// Console.WriteLine(stack.Peek());
+// stack.DisplayStack();
+#endregion
+#region Queue
+
+//Myqueue myqueue = new Myqueue(4);
+//myqueue.Enque(3);
+// myqueue.Enque(5);
+// myqueue.Enque(7);
+// myqueue.Enque(9);
+
+//Console.WriteLine(myqueue.Peek());
+// Console.WriteLine(myqueue.DeQue());
+// Console.WriteLine(myqueue.DeQue());
+// Console.WriteLine(myqueue.DeQue());
+//Console.WriteLine(myqueue.DeQue());
+
+//myqueue.DisplayQueue();
+#endregion
+#region Circular Queue
+MyCircularQueue myCircularQueue = new MyCircularQueue(3);
+myCircularQueue.CirEnque(11);
+myCircularQueue.CirEnque(13);
+myCircularQueue.CirEnque(15);
+
+Console.WriteLine(myCircularQueue.CirDeque());
+Console.WriteLine(myCircularQueue.CirDeque());
+myCircularQueue.CirEnque(17);
+myCircularQueue.CirEnque(19);
+myCircularQueue.DisplayCirQueue();
+Console.WriteLine(myCircularQueue.CirPeek());
 #endregion
